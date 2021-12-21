@@ -32,13 +32,19 @@ Include a Jupyter notebook called cao.ipynb that contains the following.
 - Appropriate plots and other visualisations to enhance your notebook for viewers.
 
 1. 2021
+- CAO2021 = 'http://www2.cao.ie/points/CAOPointsCharts2021.xlsx' - 1451 rows × 15 columns
 
 
 2. 2020
-
+- CAO2020 = 'http://www2.cao.ie/points/CAOPointsCharts2020.xlsx' - 1464 rows × 23 columns
 
 3. 2019
+- CAO2019_8 = 'http://www2.cao.ie/points/lvl8_19.pdf' - 930 rows × 4 columns
+- CAO2019_76 = 'http://www2.cao.ie/points/lvl76_19.pdf' - 461 rows × 4 columns
 
+4. 2018
+- CAO2018_8 = 'http://www2.cao.ie/points/lvl8_18.pdf' - 914 rows × 4 columns
+- CAO2018_76 = 'http://www2.cao.ie/points/lvl76_18.pdf' - 471 rows × 4 columns
 
 
 

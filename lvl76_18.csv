@@ -1,0 +1,472 @@
+Code,Course,EOS,Mid
+AL601,Electronics and Computer Engineering,240,321
+AL602,Mechanical Engineering,201,299
+AL604,Civil Engineering,243,320
+AL630,Pharmacy Technician,306,388
+AL631,Dental Nursing,307,348
+AL632,Science BioscienceChemistry,216,444
+AL650,Business,200,357
+AL651,Music and Instrument Technology,AQA,308
+AL652,Business in Equine,AQA,281
+AL660,Culinary Arts,AQA,208
+AL661,Bar Supervision,150,213
+AL663,Business Sport and Recreation,181,265
+AL701,ICT Engineering: Computer Eng or Network Mgmnt or Electronic Comms,210,366
+AL704,Computer Engineering,205,319
+AL705,Software Development Mobile Apps and Connected Devices,207,308
+AL710,Mechanical Engineering,218,308
+AL711,Mechanical Engineering and Renewable Energy,252,358
+AL712,Mechatronics,283,386
+AL713,Engineering Common Entry to MechanicalRenewableMechatronic Eng,223,388
+AL721,Civil Engineering,245,328
+AL730,Biotechnology,206,357
+AL731,Veterinary Nursing,398,442
+AL733,Forensic Toxicology,215,354
+AL734,Pharmaceutical Sciences Drug Development and Analysis,214,336
+AL751,Digital Marketing,222,321
+AL761,Hotel and Leisure Management,208,317
+AL763,Graphic Design Portfolio Required,783,842
+AL764,Early Years Care and Education,270,370
+AL765,Applied Social Studies in Social Care,278,347
+CW006,Business Wexford,129,298
+CW017,Applied Social Studies Professional Social Care Wexford,162,242
+CW027,Sustainable Farm Management and Agribusiness Wexford,222,328
+CW037,Business with options Wexford,195,311
+CW046,Computing Wexford,,
+CW047,Visual Communications and Design Wexford,198,339
+CW057,Art Portfolio Wexford,700,700
+CW106,Physiology and Health Science,454,495
+CW107,Analytical Science,213,348
+CW116,Pharmacy Technician Studies,287,380
+CW117,Biosciences,214,336
+CW126,Science Applied Biology or Applied Chemistry,198,379
+CW206,Computing Applications or Programming,200,251
+CW207,Software Development,251,337
+CW217,Information Technology Management,234,347
+CW227,Cybercrime and IT Security,251,309
+CW407,Architectural Technology,186,309
+CW417,Construction Management with Building Services,226,289
+CW427,Civil Engineering,200,331
+CW507,Aircraft Systems,281,349
+CW517,Mechanical Engineering,264,350
+CW527,Electronic Engineering,217,298
+CW547,TV and Media Production,326,379
+CW706,Legal Studies,202,339
+CW707,Industrial Design,207,364
+CW717,Applied Social Studies Professional Social Care,240,316
+CW807,Sports Coaching and Business Management GAA Portfolio,700,700
+CW817,Sports Coaching and Business Management Rugby Portfolio,700,700
+CW827,Sports Coaching and Business Management Soccer Portfolio,700,700
+CW906,Business,171,206
+CW917,Business with options,208,332
+CW926,Business with Law,208,339
+CW927,Business Administration,242,317
+CW936,Accounting,207,367
+PC402,Humanities,AQA,318
+PC404,Applied Social Studies in Social Care,AQA,227
+CR001,Applied Physics and Instrumentation,297,413
+CR006,Applied Biosciences Degree award options,360,462
+CR007,Analytical and Pharmaceutical Chemistry,292,488
+CR010,Agriculture Year 1 2 days in Clonakilty Agri College & 3 days in CIT,289,389
+CR016,Software Development,270,362
+CR021,Business Common Entry Degree award options,240,402
+CR022,Business Administration,192,299
+CR031,Social Care,326,392
+CR032,Recreation and Leisure Management,260,349
+CR035,Community Development,117,215
+CR041,Tourism Management,185,311
+CR042,Hospitality Management,182,284
+CR046,Automotive Technology and Management,200,260
+CR051,Civil Engineering,226,410
+CR052,Construction Degree award options,225,309
+CR053,Interior Architecture,252,378
+CR055,Environmental Engineering,226,389
+CR061,Electronic Engineering,251,421
+CR062,Electrical Engineering,250,343
+CR071,Mechanical Engineering,270,424
+CR075,Biomedical Engineering,312,476
+CR090,Architectural Technology,244,404
+CR094,Nautical Science at National Maritime College of Ireland,257,387
+CR095,Marine Engineering at National Maritime College of Ireland,241,339
+CR300,Physical Sciences Common Entry,300,498
+CR620,Early Years Education,341,418
+CR640,Culinary Arts,197,318
+CR650,Beverage Industry Management,120,262
+CR655,Culinary Studies,139,272
+CR657,Hospitality Studies,154,208
+CR805,Marine Electrotechnology at National Maritime College of Ireland,244,340
+CR888,Information Technology,280,372
+CT110,Computing in Information Technology,130,424
+CT116,Information Technology,170,276
+DS602,Computing and Multimedia,AQA,92
+DS603,Computing and Multimedia,206,288
+DS701,Business,120,298
+DS702,Computing and Multimedia,200,282
+DB513,Business,190,401
+DB522,Business in Accounting,197,455
+DB528,Applied Social Care,129,278
+DB533,Business in Marketing,187,287
+DB534,Sound Engineering and Music Production,164,351
+DB563,Arts,136,327
+DB571,Business Studies,146,358
+DB572,Business in Accounting,117,412
+DB573,Business in Marketing,135,294
+DB574,Business in Information Technology,144,429
+DB575,Social Studies,158,338
+DB576,Film and Media,AQA,298
+DB580,Legal Studies,122,259
+DB581,Legal and Business Studies,195,454
+DB582,Legal Studies,144,397
+DB583,Legal and Business Studies,172,397
+DT002,Engineering Reliability Management,226,270
+DT003,Automation Engineering,270,319
+DT004,Civil Engineering,242,339
+DT005,Building Engineering,231,292
+DT006,Mechanical Engineering,301,368
+DT007,Automotive Management and Technology,242,283
+DT008,Electronics and Communications Engineering,242,346
+DT009,Electrical and Control Engineering,253,347
+DT010,Electrical Services Engineering,233,272
+DT011,Aviation Technology,341,409
+DT080,Networking Technologies,241,329
+DT097,Engineering General Entry,371,479
+DT104,Auctioneering Valuation and Estate Agency,300,366
+DT169,Timber Product Technology,234,325
+DT212,Science General Entry,390,498
+DT219,Ophthalmic Dispensing,302,418
+DT259,Biosciences,400,488
+DT260,Industrial and Environmental Physics,267,424
+DT261,Medicinal Chemistry and Pharmaceutical Sciences,371,489
+DT303,Marketing,340,421
+DT315,Business Studies,330,444
+DT324,Business Management,330,444
+DT360,Retail Management and Marketing,296,337
+DT406,Tourism Management,250,337
+DT408,Hospitality Management,250,328
+DT411,Leisure Management,254,317
+DT418,Baking and Pastry Arts Management,242,387
+DT424,Food Science and Management,270,389
+DT425,Pharmacy Technician Studies,316,410
+DT426,Bar and Restaurant Management,242,325
+DT432,Culinary Arts Professional Culinary Practice,241,359
+DT598,Visual Merchandising and Display,517,789
+DL701,Business Applied Entrepreneurship,112,268
+GC240,Computing Cork,164,223
+GC265,Journalism Cork,118,368
+GC306,International Hospitality Management Limerick,338,389
+GC311,Business Limerick,175,318
+GC316,Business Limerick,379,392
+GC335,Computing Limerick,207,296
+GC340,Computing Limerick,393,393
+GC406,International Hospitality Management Dublin,173,289
+GC410,Marketing Dublin,135,290
+GC411,Business Dublin,155,281
+GC416,Business Dublin,AQA,198
+GC425,Legal Studies Dublin,147,327
+GC435,Computing Dublin,144,275
+GC440,Computing Dublin,142,150
+GC460,Music Production for Games Portfolio required Dublin,,
+GC465,Journalism Dublin,136,357
+GC466,Film and TV Production Dublin,AQA,320
+GC470,Photographic Media Dublin,AQA,349
+GC475,Photography Dublin,127,231
+GC487,Animation Dublin,150,317
+GC490,Interior Design Dublin,127,321
+GC495,Fashion Design Dublin,155,348
+BN001,Electronics and Computer Engineering,198,251
+BN002,Computing Information Technology,186,252
+BN003,Business,180,250
+BN009,Mechatronic Engineering,181,278
+BN010,Business and Information Technology,191,345
+BN011,Applied Social Studies in Social Care,250,326
+BN012,Computer Engineering,182,274
+BN013,Computing Information Technology,108,255
+BN014,Business,192,326
+BN015,Engineering Common Entry with Award options,137,261
+BN016,Business Common Entry with Award options,137,263
+BN017,International Business,188,337
+BN020,Sports Management and Coaching,230,298
+BN021,Creative Digital Media,AQA,314
+BN022,Horticulture,189,316
+BN025,Community and Youth Development,112,267
+BN030,Early Childhood Care and Education,210,347
+BN034,Digital Forensics and Cyber Security,188,280
+BN040,Digital Marketing,187,278
+TA006,Culinary Arts,100,208
+TA014,Advertising and Marketing Communications,620,712
+TA015,International Hospitality and Tourism Management,140,249
+TA106,Business Common entry,162,260
+TA111,Accounting and Finance,170,297
+TA113,Management,144,269
+TA114,Marketing,163,271
+TA116,International Business,191,300
+TA117,Digital Marketing,121,240
+TA201,Electronic Engineering,200,266
+TA203,Mechanical Engineering,159,225
+TA213,Mechanical Engineering,226,281
+TA215,Sustainable Energy and Environmental Engineering,198,308
+TA216,Electronic Engineering,214,262
+TA218,Biomedical Design,203,318
+TA219,Engineering Software,244,330
+TA301,Applied Biology,189,336
+TA302,Computing,205,279
+TA311,Bioanalysis,179,316
+TA312,Computing,189,307
+TA313,Information Technology Management,198,268
+TA314,Pharmaceutical Science,187,308
+TA315,DNA and Forensic Analysis,205,338
+TA316,Sports Science and Health,280,367
+NC102,Computing in Applications and Support,234,307
+NC103,Business,270,317
+NC104,Business Computing,233,298
+NM701,Montessori Education,108,358
+TR801,Dental Nursing,357,434
+TR802,Dental Hygiene,424,462
+TR803,Dental Technology,336,388
+DK615,Front Office Management and Business Administration,,
+DK620,Computing and Business,,
+DK640,Applied Engineering,,
+DK650,Culinary Arts,104,177
+DK651,Hospitality Studies,AQA,178
+DK710,Business and Management,120,328
+DK711,Business and Technology,210,308
+DK712,Digital Marketing Communication and Public Relations,205,338
+DK721,Computing,140,282
+DK731,Architectural Technology,200,343
+DK732,Construction Management,157,288
+DK740,Engineering Electrical and Electronic Systems,184,298
+DK742,Engineering Mechanical Engineering,140,289
+DK744,Engineering Civil Engineering,183,326
+DK750,Hospitality Management,190,279
+DK752,Event Management,168,289
+DK753,Culinary Arts,198,318
+DK763,Sport Exercise and Enterprise,204,300
+DK767,Community Youth Work,240,300
+DK769,Media Arts and Technologies,140,330
+DK770,Theatre & Film Practice,194,367
+DK781,Science Applied Bioscience,191,368
+DK783,Science Pharmaceutical Science,169,368
+DK784,Veterinary Nursing,379,429
+GA160,Business,161,243
+GA170,Business,245,380
+GA171,Business Information Systems,249,366
+GA172,Rural Enterprise and Agri-Business Mountbellew Campus,274,349
+GA174,Marketing and Sales,281,369
+GA175,Finance,280,434
+GA176,Business with Entrepreneurship,273,350
+GA272,Heritage Studies,161,297
+GA273,Contemporary Art,215,358
+GA274,Design,225,337
+GA360,Business in Tourism,189,243
+GA361,Culinary Arts,198,326
+GA362,Hotel and Hospitality Operations,171,224
+GA364,Heritage Studies,254,431
+GA370,Hotel and Catering Management,164,300
+GA375,Retail Management,164,250
+GA376,Event Management with Public Relations,200,326
+GA377,International Tourism Management,162,332
+GA378,Culinary and Gastronomic Science,189,336
+GA470,Construction Management,242,320
+GA471,Quantity Surveying and Construction Economics,206,324
+GA472,Architectural Technology,228,357
+GA473,Civil Engineering,241,403
+GA570,Software and Electronic Engineering,207,317
+GA670,Mechanical Engineering,260,414
+GA673,Energy Engineering,242,333
+GA674,Biomedical Engineering,308,434
+GA675,Agricultural Engineering,280,389
+GA676,Engineering Common entry to ManuAgriBiomedEnergyMech Eng,290,420
+GA677,Manufacturing Engineering Design,216,411
+GA770,Applied Freshwater and Marine Biology,280,387
+GA771,Applied Biology and Biopharmaceutical Science,280,410
+GA772,Chemical and Pharmaceutical Science,280,382
+GA773,Physics and Instrumentation,305,465
+GA774,Science Undenominated,280,445
+GA775,Computing in Software Development,260,361
+GA776,Computing and Digital Media,240,329
+GA777,Agriculture and Environmental Management Mountbellew Campus,290,358
+GA860,Business Mayo Campus,,
+GA862,History and Geography Mayo Campus,186,320
+GA869,Business with Administration and ICT Skills Mayo Campus,,
+GA870,Outdoor Education and Leisure Mayo Campus,171,346
+GA871,Early Childhood Care and Education Mayo Campus,200,349
+GA872,Culture and Environment Mayo Campus,228,316
+GA875,Sustainable Building Technology Mayo Campus,173,189
+GA877,Business Mayo Campus,,
+GA878,Accounting and Financial Management Mayo Campus,171,354
+GA879,Applied Social Care Mayo Campus,262,359
+GA970,Furniture Design and Manufacture Letterfrack Campus,236,349
+GA971,Furniture and Wood Technology Letterfrack Campus,192,343
+GB001,Business,144,350
+LY107,Business Common Entry with Degree Award options,169,327
+LY116,Business Administration IT and Customer Service,136,289
+LY206,Sports Studies,137,243
+LY207,Law with Criminal Justice or Spanish or Irish,160,309
+LY317,Culinary Arts at Killybegs Co Donegal,178,272
+LY327,Hospitality and Tourism Killybegs Common Entry-Degree Award options,169,253
+LY336,Bar and Restaurant Supervision at Killybegs Co Donegal,118,167
+LY346,Culinary Arts at Killybegs Co Donegal,116,398
+LY406,Photography,,
+LY427,Digital Film and Video,172,297
+LY437,Animation,218,346
+LY447,Fashion with Promotion,206,308
+LY457,Graphic and Digital Design,180,289
+LY507,Quantity Surveying,166,316
+LY517,Building Services and Renewable Energy,,
+LY527,Civil Engineering,176,317
+LY547,Architectural Technology,164,337
+LY607,ElectronicComputer Engineering,164,351
+LY617,Mechanical Engineering,199,339
+LY707,Computer Games Development,198,289
+LY717,Computing Common Entry with Degree Award options,165,299
+LY737,Computer Security and Digital Forensics,169,332
+LY806,Pharmacy Technician,140,317
+LY816,Dental Nursing,173,289
+LY817,Bioscience,258,372
+LY837,Food Science and Nutrition,189,343
+LY847,Veterinary Nursing,356,388
+LY867,Pharmaceutical and Medicinal Science,163,297
+LY877,Agriculture,204,302
+LY906,Early Childhood Care Health and Education,109,309
+LY916,Health and Social Care,108,261
+CI001,Counselling Skills and Psychotherapy Studies Limerick,152,320
+CI002,Counselling Skills and Addiction Studies Limerick,168,307
+CI005,Counselling Skills and Youth Studies Limerick,171,373
+LC111,Design in Fashion and Textiles for Product and Costume Portfolio,760,924
+LC221,Business Accounting and Finance,252,441
+LC222,Business Marketing and Management,299,399
+LC228,Sports Development and Coaching,250,327
+LC230,Business Computing,250,336
+LC235,Internet Systems Development,213,280
+LC244,Sustainable Building and Energy Engineering,298,341
+LC251,Civil Engineering,200,352
+LC253,Construction,162,254
+LC257,Interior Design and Technology,225,329
+LC260,Applied Biology,227,409
+LC267,Pharmaceutical and Forensic Analysis,279,382
+LC268,Medical Technology,233,350
+LC270,Music Technology and Production,327,405
+LC271,Electrical Engineering,241,328
+LC276,Creative Broadcast and Film Production,289,359
+LC277,Industrial Automation and Robotic Systems,211,358
+LC278,Renewable and Electrical Energy Engineering,215,331
+LC279,Electronic Engineering,221,381
+LC281,Automobile Technology,198,289
+LC283,Precision Engineering,211,371
+LC284,Agricultural Mechanisation at Salesian Agricultural College Pallaskenry,189,296
+LC285,Mechanical Engineering,236,393
+LC286,Road Transport Technology and Management,231,330
+LC290,Community Sports Development,201,291
+LC296,Hotel Front Office Management,146,252
+LC298,Culinary Arts,146,291
+LC299,Hospitality Studies,117,241
+LC412,Business Marketing and Management Thurles,195,311
+LC423,Sports Strength and Conditioning Thurles,234,329
+LC425,Environmental and Geographical Sciences Thurles,246,369
+LC428,Environmental Management in Agriculture Thurles,233,350
+LC432,Early Childhood Care and Education Thurles,144,318
+LC504,Creative Media & Design Clonmel,180,320
+LC515,Digital Animation Production Portfolio Clonmel,802,837
+LC516,Game Art and Design Production Portfolio Clonmel,767,912
+LC602,Social Care Work Ennis,311,357
+LC603,Early Childhood Care and Education Ennis,122,309
+LM180,Equine Science,301,378
+SG101,Business,112,243
+SG102,Computing Undenominated,105,190
+SG105,Business in Office Administration,AQA,177
+SG108,Business in Accounting,216,378
+SG131,Computing Games Development,198,312
+SG134,Applied Sport with Business,AQA,252
+SG135,Business in Tourism with Event Management,153,317
+SG136,Computing Software Development,207,274
+SG137,Computing Networks and Cloud Infrastructure,205,272
+SG138,Computing Undenominated,236,289
+SG231,Fine Art,345,561
+SG232,Creative Design,206,261
+SG235,Performing Arts Theatre Design,271,347
+SG236,Performing Arts Acting,224,319
+SG300,Engineering Undenominated,189,300
+SG301,Civil Engineering,143,340
+SG302,Construction Economics,189,330
+SG303,Mechanical Engineering,178,242
+SG305,Electronic and Computer Engineering,198,198
+SG306,Mechatronics,242,556
+SG307,Precision Engineering and Design,240,240
+SG330,Engineering Undenominated,250,403
+SG331,Interior Architecture and Design,206,327
+SG332,Advanced Wood and Sustainable Building Technology,170,278
+SG333,Mechanical Engineering,208,341
+SG334,Mechatronics,292,384
+SG336,Precision Engineering and Design,320,395
+SG337,Electronic and Computer Engineering,261,320
+SG338,Civil Engineering,196,329
+SG339,Quantity Surveying,188,346
+SG401,Science,122,294
+SG403,Applied Archaeology,214,246
+SG431,Pharmaceutical Science with Drug Development,268,339
+SG432,Environmental Protection,234,376
+SG433,Occupational Safety and Health,226,316
+SG434,Human Nutrition,297,440
+SG435,Health Science and Physiology,298,414
+SG436,Biomedical Science,261,409
+SG437,Forensic Investigation and Analysis,240,340
+SG438,Applied Archaeology,225,345
+SG535,Business Administration,236,290
+SG536,Business,188,331
+SG537,Marketing and Sales,140,272
+SG539,Digital Marketing,182,339
+TL605,Business Information Management,225,337
+TL620,Culinary Arts,101,205
+TL621,Hotel Operations,100,214
+TL622,Travel and Tourism Studies,254,280
+TL651,Science Biological and Environmental Studies,232,369
+TL652,Pharmacy Technician,258,389
+TL710,Computing with Software Development,204,288
+TL711,Computing with Games Development,205,294
+TL712,Computing with Media Development,278,350
+TL715,Computing Degree Award options,213,281
+TL716,Computer Systems and Networking,,
+TL719,Culinary Arts,273,339
+TL720,Travel and Tourism Management,261,359
+TL731,Business Major Specialism in: Accounting or Marketing or Management,212,346
+TL744,Agricultural Engineering,251,317
+TL745,Civil and Environmental Engineering,280,379
+TL747,Engineering in Manufacturing and Mechatronics Engineering,221,341
+TL748,Agricultural Science,260,380
+TL755,Pharmaceutical Science,244,414
+TL758,Animal Bioscience,260,377
+TL771,Health and Leisure Degree Award options,204,362
+TL772,Health and Leisure with Massage,219,347
+TL780,Early Childhood Care and Education,206,316
+TL781,Social Care,208,307
+WD003,Business,186,346
+WD010,Electronic Engineering,193,242
+WD011,Mechanical Engineering,211,289
+WD013,Legal Studies,171,338
+WD018,Applied Social Studies in Social Care,188,291
+WD019,Recreation and Sport Management,180,302
+WD040,Building Services Engineering,223,318
+WD076,Forestry,215,366
+WD094,Architectural Technology,200,339
+WD096,Horticulture Waterford Kildalton,206,327
+WD097,Horticulture Dublin National Botanic Gardens,240,429
+WD126,Agriculture,367,420
+WD139,Civil Engineering,194,319
+WD151,Software Systems Development,195,320
+WD153,Multimedia Applications Development,186,318
+WD155,Information Technology,182,299
+WD159,Business,206,360
+WD164,Food Science with Business,216,403
+WD172,Culinary Arts,161,308
+WD173,Hospitality Studies,171,278
+WD174,Tourism,AQA,233
+WD175,Pharmaceutical Science,206,356
+WD177,Science Mol. Biology with Biopharm.Food Science with BusinessPharm.,283,409
+WD182,Electrical Engineering,189,280
+WD184,Retail Management,180,307
+WD188,Applied Health Care,242,347
+WD205,Molecular Biology with Biopharmaceutical Science,217,398
+WD206,Electronic Engineering,175,330
+WD207,Mechanical Engineering,182,362
+WD208,Manufacturing Engineering,180,298
+WD209,Building Services Engineering,220,379
