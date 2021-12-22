@@ -1,8 +1,12 @@
-numpy
-matplotlib
+re
 requests
 datetime
-pandas
-urllib
+numpy
 urllib.request
+urllib.parse
 tabula
+matplotlib.pyplot
+time
+pandas
+seaborn
+zipfile
