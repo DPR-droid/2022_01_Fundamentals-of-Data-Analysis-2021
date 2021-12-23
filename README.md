@@ -3,7 +3,6 @@
 ## Introduction
 The repository is created to ensure that you have achieved the learning outcomes of the module while also providing you with sample work to show prospective employers. The overall assessment is split into the three components as detailed below.
 
-
 1. GitHub Repository
 2. Pyplot Notebook
 3. CAO Points Notebook
@@ -49,30 +48,32 @@ Include a Jupyter notebook called cao.ipynb that contains the following.
 
 
 
-# Handy online tools nbviewer/binder
+# Review the Assignment
 
-### nbviewer
-View notebook at the following URL:
+How to run or review the Jupyter notebook.      
 
-- Note to self update link for nbviewer.
-- update nbviewer badge
+## Github
+Review the assignment [Click here Programming-for-Data-Analysis-Project-2021.ipynb](https://github.com/DPR-droid/Programming-for-Data-Analysis-Project-2021/blob/main/Programming-for-Data-Analysis-Project-2021-V1.ipynb)
 
+## NBViewer
+NBViewer is another way to share Jupyter Notebook.
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/Coursework/numpy-random/numpy_random.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DPR-droid/Programming-for-Data-Analysis-Project-2021/blob/main/Programming-for-Data-Analysis-Project-2021-V1.ipynb)
 
-https://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/Coursework/numpy-random/numpy_random.ipynb
+## Binder
+Try this assignment without installing by clicking the Binder badge below, this allows you to run the Jupyter notebook in an online virtual executable environment, making the code immediately reproducible by anyone, anywhere. 
 
-### binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPR-droid/Programming-for-Data-Analysis-Project-2021/main?filepath=Programming-for-Data-Analysis-Project-2021-V1.ipynb)
 
-- update requirements.txt for imports
-- Note to self update link for binder.
-- update binder badge
+**import warnings** not included in requirements.txt as it was causing an issue when building the online virtual executable environment.
 
-https://mybinder.org/v2/gh/DPR-droid/Fundamentals-of-Data-Analysis-2021/master?filepath=Coursework/numpy-random/numpy_random.ipynb
+## Try at home
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPR-droid/Fundamentals-of-Data-Analysis-2021/tree/master/Coursework/numpy-random/HEAD?labpath=numpy_random.ipynb)
+To try this on your own PC you require the following:
+- Install Anaconda https://www.anaconda.com/products/individual this ditribution includes Python and serveral packages used in this Assignment including the numpy package. 
+- 'requirments.txt' for other modules required. 
+- Install Jupyter https://jupyter.org/ to run Programming-for-Data-Analysis-Project-2021.ipynb
+- Install Github
+- git clone git@github.com:DPR-droid/Programming-for-Data-Analysis-Project-2021.git
 
-
-### How to run the notebook
-
-- update requirements.txt for imports
+***
