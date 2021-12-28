@@ -10,3 +10,4 @@ time
 pandas
 seaborn
 zipfile
+scipy
