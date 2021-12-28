@@ -1,7 +1,6 @@
 requests
 datetime
 numpy
-urllib
 tabula
 matplotlib
 time
