@@ -53,7 +53,7 @@ Include a Jupyter notebook called cao.ipynb that contains the following.
 
 
 
-# R4. Review the Assignment
+# 4. Review the Assignment
 
 How to run or review the Jupyter notebook.      
 
@@ -63,16 +63,20 @@ Review the assessment [Click here cao_V7.ipynb](https://github.com/DPR-droid/Fun
 ## NBViewer
 NBViewer is another way to share Jupyter Notebook.
 
-To view the cao_V7.ipynb click this badge[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/cao_V7.ipynb)
+To view the cao_V7.ipynb click this badge →→  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/cao_V7.ipynb)
 
-To view the pyplot_V3.ipynb click this badge[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/pyplot_V3.ipynb)
+To view the pyplot_V3.ipynb click the badge →→ [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/pyplot_V3.ipynb)
 
 ## Binder
 Try this assignment without installing by clicking the Binder badge below, this allows you to run the Jupyter notebook in an online virtual executable environment, making the code immediately reproducible by anyone, anywhere. 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPR-droid/Programming-for-Data-Analysis-Project-2021/main?filepath=Programming-for-Data-Analysis-Project-2021-V1.ipynb)
+To view the cao_V7.ipynb click this badge →→  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPR-droid/Fundamentals-of-Data-Analysis-2021/master?filepath=cao_V7.ipynb)
+
+To view the pyplot_V3.ipynb click this badge →→ [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DPR-droid/Fundamentals-of-Data-Analysis-2021/master?filepath=pyplot_V3.ipynb)
 
 **import warnings** not included in requirements.txt as it was causing an issue when building the online virtual executable environment.
+**re**  not included in requirements.txt as it was causing an issue when building the online virtual executable environment
+**urllib.request**  not included in requirements.txt as it was causing an issue when building the online virtual executable environment
 
 ## Try at home
 

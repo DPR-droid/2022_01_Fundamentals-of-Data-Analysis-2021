@@ -1,10 +1,9 @@
 requests
 datetime
 numpy
-urllib.request
-urllib.parse
+urllib
 tabula
-matplotlib.pyplot
+matplotlib
 time
 pandas
 seaborn
