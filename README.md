@@ -6,18 +6,23 @@ The repository is created to ensure that you have achieved the learning outcomes
 1. GitHub Repository
 2. Pyplot Notebook
 3. CAO Points Notebook
+4. Review the Assignment
 
-## GitHub Repository
+## 1. GitHub Repository
 GitHub repository containing two Jupyter notebooks
 
-### README.md 
+### 1.1 README.md 
 This README.md file explains why the repository exists, what is in it, and how to run the notebooks
 
-### requirements.txt
+### 1.2 requirements.txt
 A requirements.txt file is included to enable someone to quickly run this notebooks with minimal configuration.
 
+### 1.2 requirements.txt
 
-## Pyplot Notebook
+##
+
+
+## 2. Pyplot Notebook
 This repository includes a Jupyter notebook called pyplot.ipynb that contains the following:
 
 - A clear and concise overview of the matplotlib.pyplot Python package
@@ -48,17 +53,19 @@ Include a Jupyter notebook called cao.ipynb that contains the following.
 
 
 
-# Review the Assignment
+# R4. Review the Assignment
 
 How to run or review the Jupyter notebook.      
 
 ## Github
-Review the assignment [Click here Programming-for-Data-Analysis-Project-2021.ipynb](https://github.com/DPR-droid/Programming-for-Data-Analysis-Project-2021/blob/main/Programming-for-Data-Analysis-Project-2021-V1.ipynb)
+Review the assessment [Click here cao_V7.ipynb](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/cao_V7.ipynb) or [pyplot_V3.ipynb](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/pyplot_V3.ipynb)
 
 ## NBViewer
 NBViewer is another way to share Jupyter Notebook.
 
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/DPR-droid/Programming-for-Data-Analysis-Project-2021/blob/main/Programming-for-Data-Analysis-Project-2021-V1.ipynb)
+To view the cao_V7.ipynb click this badge[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/cao_V7.ipynb)
+
+To view the pyplot_V3.ipynb click this badge[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/pyplot_V3.ipynb)
 
 ## Binder
 Try this assignment without installing by clicking the Binder badge below, this allows you to run the Jupyter notebook in an online virtual executable environment, making the code immediately reproducible by anyone, anywhere. 
@@ -72,8 +79,8 @@ Try this assignment without installing by clicking the Binder badge below, this 
 To try this on your own PC you require the following:
 - Install Anaconda https://www.anaconda.com/products/individual this ditribution includes Python and serveral packages used in this Assignment including the numpy package. 
 - 'requirments.txt' for other modules required. 
-- Install Jupyter https://jupyter.org/ to run Programming-for-Data-Analysis-Project-2021.ipynb
+- Install Jupyter https://jupyter.org/ to run cao_V7.ipynb and pyplot_V3.ipynb
 - Install Github
-- git clone git@github.com:DPR-droid/Programming-for-Data-Analysis-Project-2021.git
+- git clone git@github.com:DPR-droid/Fundamentals-of-Data-Analysis-2021.git
 
 ***
