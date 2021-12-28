@@ -1,0 +1,8 @@
+requests
+datetime
+numpy
+tabula
+matplotlib
+pandas
+seaborn
+scipy
