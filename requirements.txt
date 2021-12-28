@@ -5,5 +5,4 @@ tabula
 matplotlib
 pandas
 seaborn
-zipfile
 scipy
