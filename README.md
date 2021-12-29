@@ -7,52 +7,59 @@ The purpose of this assessment is to demonstrate the learning outcomes of the fu
 
 1. GitHub Repository
 2. Pyplot Notebook
+    - 2.1 About the Pyplot Notebook
+    - 2.2 First plot
+    - 2.3 What did I learn?
+    - 2.4 Biggest challenge
 3. CAO Points Notebook
-4. Review the Assignment
+    - 3.1 About the CAO Points Notebook
+    - 3.2 What does the Setup at the beginning do?
+    - 3.3 The ETL Process
+    - 3.4 Analyses of CAO data
+    - 3.5 What did I learn?
+    - 3.6 Biggest challenge
+    - 3.7 Future Challanges
+4. How to Use the Project
+    - 4.1 Github
+    - 4.2 NBViewer
+    - 4.3 Try at home
+    - 4.4 Binder
+5. Acknowledgement
+6. References
+
+***
 
 # 1. GitHub Repository
-GitHub repository containing two Jupyter notebooks
+GitHub repository contains the following
 
-## 1.1 README.md 
-This README.md file explains why the repository exists, what is in it, and how to run the notebooks
-
-## 1.2 requirements.txt
-A requirements.txt file is included to enable someone to quickly run this notebooks with minimal configuration.
-
-## 1.3 pyplot_V3.ipynb
-Jupyter notebook for Pyplot Notebook
-
-## 1.4 cao_V7.ipynb
-Jupyter notebook for CAO Points Notebook
-
-## 1.5 Version Control
-A Version control to keep track of changes made to the Jupyter notebooks and learning outcomes.
-
-## 1.6 data
-Pictures for notebooks
-cao_V7.ipynb also uses the data folder to read 2018 and 2019 data and save files HTML, pdf and xlsx.  
-
-## 1.7 Coursework
-Samples of coursework
+- 1.1 README.md 
+    - This README.md file explains why the repository exists, what is in it, and how to run the notebooks
+- 1.2 requirements.txt
+    - A requirements.txt file is included to enable someone to quickly run this notebooks with minimal configuration.
+- 1.3 pyplot_V3.ipynb
+    - Jupyter notebook for Pyplot Notebook
+- 1.4 cao_V7.ipynb
+    - Jupyter notebook for CAO Points Notebook
+- 1.5 Version Control
+    - A Version control to keep track of changes made to the Jupyter notebooks and learning outcomes.
+- 1.6 data
+    - Pictures for notebooks
+    - cao_V7.ipynb also uses the data folder to read 2018 and 2019 data and save files HTML, pdf and xlsx.  
+- 1.7 Coursework
+    - Samples of coursework
 
 # 2. Pyplot Notebook - pyplot_V3.ipynb
+This README contains an overview of the Pyplot Notebook. The Jupyter notebook contains the main body of work and list all references used the in the assignment.
 
-***pyplot_V3.ipynb Table of Contents***
+- 2.1 About the Pyplot Notebook
+- 2.2 First plot
+- 2.3 What did I learn?
+- 2.4 Biggest challenge
 
-    1. Overview
-    2. Pyplot the first demonstration
-    3. What is a figure?
-    4. What is the Matplotlib library (Matplotlib, pyplot and pylab)?
-    5. Plots from the matplotlib.pyplot
-        - 5.1 Scatterplot
-        - 5.2 Exponential 
-        - 5.3 Stackplot Plot
-    6. References
-    7. End
-
-## 2.1 About the Pyplot Notebook
+### 2.1 About the Pyplot Notebook
 The challenge with the Pyplot Notebook was to create an overview pitched at the class for the matplotlib.pyplot python package. 
 
+### 2.2 First plot
 The outcomes from this part of the assessment first showed how easy it is to implement plots using the matplotlib.pyplot module. A couple of lines of code can generate plots, and then add new functions to visually see the representation of the relationships and derive an understanding which may not have come from a list of values.
 
 ![my_first_pyplot.png](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/my_first_pyplot.png)
@@ -63,6 +70,7 @@ This is further demonstrated by using real-world energy consumption in India and
 
 ![Electricity_Power_Consumption](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/Electricity_Power_Consumption.png)
 
+### 2.3 What did I learn?
 The assessment gave me an understanding of data analysis terms 
 
 What is a:
@@ -81,68 +89,47 @@ When and how to use different plots:
 
 What makes this Pyplot Notebook different is the use of real-world examples to show how matplotlib.pyplot can be used. 
 
-### ***Scatterplot*** primary uses are to observe and show relationships between two numeric variables. 
+***Scatterplot*** primary uses are to observe and show relationships between two numeric variables. 
 
 ![scatterplot.png](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/scatterplot.png)
 
-This is demonstrated with a link to my project work on the [iris dataset](https://github.com/DPR-droid/pands-project). This shows with some practise and scatterplots show the distinct groups among three different species of iris.
+This is demonstrated with a link to my project work on the [iris dataset](https://github.com/DPR-droid/pands-project). Scatterplots have the ability to show the distinct groups among three different species of iris.
 
 ![Iris Dataset scatterplot](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/Pairwise-Scatterplots.png)
 
-### ***An exponential plot*** to model the growth of a virus.
+***An exponential plot*** to model the growth of a virus.
 
 ![exponential](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/exponential.png)
 
-### ***Stackplot*** track changes over time illustrated using categories of sleeping, eating, college and family time over five days Monday to Friday.
+***Stackplot*** track changes over time illustrated using categories of sleeping, eating, college and family time over five days Monday to Friday.
 
 ![stackedplot](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/stackedplot.png)
 
-The biggest challenge was understanding 
-Matplotlib library is extensive and has over 70,000 lines of code, 
-Functionality and the 
-Issues with pyplot API?  
-Explicit Code
-Implicit Code
-All References are in the Jupyter notebook
+### 2.4 Biggest challenge
+- Matplotlib library is extensive and has over 70,000 lines of code, 
+- Functionality 
+- Understanding the issues with pyplot API?  
+    - Explicit Code
+    - Implicit Code
 
+***
 
 # 3. CAO Points Notebook - cao_V7.ipynb
-This repository includes a Jupyter notebook called cao_V7.ipynb 
+This README contains an overview of the CAO Points Notebook. The Jupyter notebook contains the main body of work and list all references used the in the assignment.
 
-***cao_V7.ipynb Table of Contents***
+- 3.1 About the CAO Points Notebook
+- 3.2 What does the Setup at the beginning do?
+- 3.3 The ETL Process
+- 3.4 Analyses of CAO data
+- 3.5 What did I learn?
+- 3.6 Biggest challenge
+- 3.7 Future Challanges
 
-    1. Setup
-        - 1.1 Imports
-        - 1.2 Set Time
-        - 1.3 CAO URL Availability Function
-        - 1.4 CAO HTML Save functions
-        - 1.5 CAO file save function
-        - 1.6 CAO Webpage links
-        - 1.7 CAO Points URL
-    2. Import CAO Points into pandas
-        - 2.1 Load 2021 Points
-        - 2.2 Load 2020 Points
-        - 2.3 Load 2019 Points
-        - 2.4 Load 2018 Points
-        - 2.5 Merge all DataFrames
-        - 2.6 Replace and convert values
-    3. CAO Points comparison comparison, plots and other visualisations
-        - 3.1 Pandas Describe with Observation
-        - 3.2 Matplotlib Histogram with Observation
-        - 3.3 Top N results with Pandas
-        - 3.4 Final Dataframe with Observations using Seaborn mobule
-    4. Reference
-    5. End of file analysis
-    6. Other Learning outcomes
-        - 6.1 Pandas import on HTML Data
-        - 6.2 Pandas import on PDF Data
-        - 6.3 Zip files
-
-## 3.1 About the CAO Points Notebook.
+### 3.1 About the CAO Points Notebook.
 
 The challenge with the CAO Points Notebook was to create an overview pitched at the class of how to load data from different online sources (HMTL, Excel, PDF, CSV), compare that data loaded and output plot and visualisations to enhance the notebook for viewers.
 
-## 3.2 What does the Setup at the beginning do?
+### 3.2 What does the Setup at the beginning do?
 
 - Imports to run the notebook
 - A global timestamp of when the files are extracted and saved. 
@@ -155,14 +142,14 @@ The challenge with the CAO Points Notebook was to create an overview pitched at 
 - CAO Points URL
     - After inspecting the URLs a list of all links to the files used in the project are set here.
 
-## 2.3 What does the Import CAO Points into pandas do?
+### 2.3 The ETL Process?
 This demonstrates how a data analyst should use the extract, transform, load (ETL) process. 
 
-    1. ***Extract*** the data from sources
-    2. ***Transform*** a series of rules or functions applied to the extracted data in order to prepare it for loading into the end target including data cleansing
-    3. ***Load*** the data into the end target, a pandas frame [1]
+    1. Extract the data from sources
+    2. Transform a series of rules or functions applied to the extracted data in order to prepare it for loading into the end target including data cleansing
+    3. Load the data into the end target, a pandas frame [1]
 
-### 2021 and 2020 CAO Data ETL
+#### 2021 and 2020 CAO Data ETL
 Inspect the Excel files to detect any anomalies
 - Preamble
 - Extra columns
@@ -182,7 +169,7 @@ Load the data 2021 and 2020 into the end target, a pandas frame with the followi
 - DF2021 - 1451 rows × 8 columns
 - DF2020 - 1464 rows × 8 columns
 
-### 2019 and 2018 CAO Data ETL
+#### 2019 and 2018 CAO Data ETL
 Extract data for 2019 and 2018 the following step 
 1. Download original pdf files.
 2. Check data in the files
@@ -215,24 +202,74 @@ To analyse the 2018 to 2021 Data from the CAO a single Dataframe is created. The
 9. Replace and convert values to numeric
     - This step was required and only discovered during the Analyse Data stage.  
 10. Check Data types
+11. New Dataframe created 
+    - AllCourses - 1885 rows × 14 columns
 
+### 3.4 Analyses of CAO data
+To complete the CAO points Notebook requires analyses of the data the following steps are completed:
+1. Get the summary statistics on the new Dataframe (AllCourses)
+2. Get summary statistics of the Mid point, as this is a common column over the 4 years
+3. Create a histogram with observations on 
+    - The differences between Mid-point from 2018 - 2020
+    - The differences between Round 1 in 2020 and 2021
+4. Create a new Dataframe with the Top N results to investigate the skewed data in the histograms for points required between 400 to 600
+    - Top 10 Colleges providers
+    - Top 5 Courses Categories
+    - Points required between 400 to 600
+5. Use the seaborn module to create a
+    - Boxplots for Course Categories for round 1 in 2020 and 2021
+    - Pair plot Mid point 2018 - 2020 Final Dataframe
 
+### 3.5 What did I learn?
+1. The ETL process
+2. Pandas is multifunctional tool with the ability 
+    - Loading and saving data
+    - Merges and joins
+    - Data inspection
+    - Data cleansing
+    - Data fill
+    - Data normalization
+    - Data visualization
+    - Statistical analysis
 
-# 4. Review the Assignment
+### 3.6 Biggest challenge
 
-How to run or review the Jupyter notebook.      
+Please see the cao_V7.ipynb section 6 other learning outcomes
 
-## 4.1 Github
+- How to extract data from HTML and fix errors
+    - Sample HTML code is at the end of the notebook to illustrate other learning outcomes
+- How to extract data from a PDF file
+    - Sample PDF code is at the end of the notebook to illustrate other learning outcomes
+- How to zip files 
+
+### 3.7 Future Challanges
+- Fix reading data from the PDF files
+- Automate reading of files
+- Create a file check to compare files for changes
+- Zip files in Data folder for archive purposes
+- Investigate HTML reading data using beautifulsoup4 module.
+
+***
+
+# 4. How to Install and Run the Assessment
+
+- 4.1 Github
+- 4.2 NBViewer
+- 4.3 Try at home
+- 4.4 Binder
+     
+
+### 4.1 Github
 Review the assessment [Click here cao_V7.ipynb](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/cao_V7.ipynb) or [here for pyplot_V3.ipynb](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/pyplot_V3.ipynb)
 
-## 4.2 NBViewer
+### 4.2 NBViewer
 NBViewer is another way to share Jupyter Notebook.
 
 To view the cao_V7.ipynb click this badge →→  [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/cao_V7.ipynb)
 
 To view the pyplot_V3.ipynb click the badge →→ [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](http://nbviewer.org/github/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/pyplot_V3.ipynb)
 
-## 4.3 Try at home
+### 4.3 Try at home
 
 To try this on your own PC you require the following:
 - Install Anaconda https://www.anaconda.com/products/individual this ditribution includes Python and serveral packages used in this Assignment including the numpy package. 
@@ -242,7 +279,7 @@ To try this on your own PC you require the following:
 - git clone git@github.com:DPR-droid/Fundamentals-of-Data-Analysis-2021.git
 
 
-## 4.4 Binder
+### 4.4 Binder
 Binder will not have a link in this project as the online virtual executable environment had several issue with loading imports from the requirments.txt file, see below:
 
     - urllib
@@ -256,6 +293,13 @@ When removed from the requirments.txt file the online virtual executable environ
 
 ***
 
-# References
+# 5. Acknowledgement
+Lecturer Ian McLoughlin Fundamentals of Data Analysis GMIT
+
+Family and friends for their support
+
+# 6. References
 
 [1] https://en.wikipedia.org/wiki/Extract,_transform,_load
+
+Note: All References are contained within each notebook
