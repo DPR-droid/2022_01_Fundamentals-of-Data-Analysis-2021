@@ -19,10 +19,10 @@ This README.md file explains why the repository exists, what is in it, and how t
 ## 1.2 requirements.txt
 A requirements.txt file is included to enable someone to quickly run this notebooks with minimal configuration.
 
-## 1.3 cao_V7.ipynb
+## 1.3 pyplot_V3.ipynb
 Jupyter notebook for Pyplot Notebook
 
-## 1.4 pyplot_V3.ipynb
+## 1.4 cao_V7.ipynb
 Jupyter notebook for CAO Points Notebook
 
 ## 1.5 Version Control
@@ -34,7 +34,6 @@ cao_V7.ipynb also uses the data folder to read 2018 and 2019 data and save files
 
 ## 1.7 Coursework
 Samples of coursework
-
 
 # 2. Pyplot Notebook - pyplot_V3.ipynb
 
@@ -139,23 +138,83 @@ This repository includes a Jupyter notebook called cao_V7.ipynb
         - 6.2 Pandas import on PDF Data
         - 6.3 Zip files
 
-## 2.1 About the CAO Points Notebook.
+## 3.1 About the CAO Points Notebook.
 
-1. 2021
-- CAO2021 = 'http://www2.cao.ie/points/CAOPointsCharts2021.xlsx' - 1451 rows × 15 columns
+The challenge with the CAO Points Notebook was to create an overview pitched at the class of how to load data from different online sources (HMTL, Excel, PDF, CSV), compare that data loaded and output plot and visualisations to enhance the notebook for viewers.
 
+## 3.2 What does the Setup at the beginning do?
 
-2. 2020
-- CAO2020 = 'http://www2.cao.ie/points/CAOPointsCharts2020.xlsx' - 1464 rows × 23 columns
+- Imports to run the notebook
+- A global timestamp of when the files are extracted and saved. 
+- Test functions.
+    - Check availability of the CAO website
+    - Save the webpage and track changes
+    - Save all files to a folder
+- CAO Webpage links used for the assessment
+    - Using the saved webpage the HTML could be inspected to extract the links with required data 
+- CAO Points URL
+    - After inspecting the URLs a list of all links to the files used in the project are set here.
 
-3. 2019
-- CAO2019_8 = 'http://www2.cao.ie/points/lvl8_19.pdf' - 930 rows × 4 columns
-- CAO2019_76 = 'http://www2.cao.ie/points/lvl76_19.pdf' - 461 rows × 4 columns
+## 2.3 What does the Import CAO Points into pandas do?
+This demonstrates how a data analyst should use the extract, transform, load (ETL) process. 
 
-4. 2018
-- CAO2018_8 = 'http://www2.cao.ie/points/lvl8_18.pdf' - 914 rows × 4 columns
-- CAO2018_76 = 'http://www2.cao.ie/points/lvl76_18.pdf' - 471 rows × 4 columns
+    1. ***Extract*** the data from sources
+    2. ***Transform*** a series of rules or functions applied to the extracted data in order to prepare it for loading into the end target including data cleansing
+    3. ***Load*** the data into the end target, a pandas frame [1]
 
+### 2021 and 2020 CAO Data ETL
+Inspect the Excel files to detect any anomalies
+- Preamble
+- Extra columns
+- Header names
+- Correct file
+
+Extract data using the pandas.read_excel function 
+
+Transforming the data for 2021 and 2020 
+- Skip top N rows to remove the preamble
+- Header names to extract data
+- The pandas Dataframe columns are renamed
+- isna().sum() function is used to identify missing values in a column.
+- This information gathered here will later inform how all the Dataframes will be merged
+
+Load the data 2021 and 2020 into the end target, a pandas frame with the following results:
+- DF2021 - 1451 rows × 8 columns
+- DF2020 - 1464 rows × 8 columns
+
+### 2019 and 2018 CAO Data ETL
+Extract data for 2019 and 2018 the following step 
+1. Download original pdf files.
+2. Check data in the files
+3. Copy Data into Libre Office
+4. Delete preamble on page 1.
+5. Delete headers and footers.
+6. Remove all whitespaces
+7. Save the data as a CSV file
+8. Extract data using the pandas.read_csv function
+
+Transforming the data for 2019 and 2018
+- Set header names
+- Concatenate level 6 7 data with level 8 data 
+- isna().sum() function is used to identify missing values in a column.
+- This information gathered here will later inform how all the Dataframes will be merged
+
+Load the data 2019 and 2018 into the end target, a pandas frame with the following results:
+- DF2019= 1391 rows × 4 columns
+- DF2018= 1385 rows × 4 columns
+
+To analyse the 2018 to 2021 Data from the CAO a single Dataframe is created. The isna().sum() function informed that the College Code (Code) and College Title (Title) had no missing data and these are used as our indexes to join all the data frames together. Merging the Dataframes to create a single Dataframe the following step:
+1. New Dataframe is created with only Code and Title
+2. Dropping all duplicated in Code creating unique values
+3. Create a College code column on the New Dataframe
+4. Check for missing values
+5. Set the index of Code on the New Dataframe
+6. Set the index of Code on the corresponding DF2021, DF2020, DF2019, DF2018 Dataframes
+7. Use the Pandas join function with all the required Data in the New Dataframe
+8. Check for Missing values
+9. Replace and convert values to numeric
+    - This step was required and only discovered during the Analyse Data stage.  
+10. Check Data types
 
 
 
@@ -196,3 +255,7 @@ When removed from the requirments.txt file the online virtual executable environ
 
 
 ***
+
+# References
+
+[1] https://en.wikipedia.org/wiki/Extract,_transform,_load
