@@ -55,13 +55,13 @@ The challenge with the Pyplot Notebook was to create an overview pitched at the 
 
 The outcomes from this part of the assessment first showed how easy it is to implement plots using the matplotlib.pyplot module. A couple of lines of code can generate plots, and then add new functions to visually see the representation of the relationships and derive an understanding which may not have come from a list of values.
 
-![my_first_pyplot.png](data\my_first_pyplot.png)
+![my_first_pyplot.png](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/my_first_pyplot.png)
 
-![subplots.png](data\subplots.png)
+![subplots.png](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/subplots.png)
 
 This is further demonstrated by using real-world energy consumption in India and India and Bangladesh 1972 - 2012
 
-![Electricity_Power_Consumption](data\Electricity_Power_Consumption.png)
+![Electricity_Power_Consumption](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/Electricity_Power_Consumption.png)
 
 The assessment gave me an understanding of data analysis terms 
 
@@ -83,19 +83,19 @@ What makes this Pyplot Notebook different is the use of real-world examples to s
 
 ### ***Scatterplot*** primary uses are to observe and show relationships between two numeric variables. 
 
-![scatterplot.png](data\scatterplot.png)
+![scatterplot.png](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/scatterplot.png)
 
 This is demonstrated with a link to my project work on the [iris dataset](https://github.com/DPR-droid/pands-project). This shows with some practise and scatterplots show the distinct groups among three different species of iris.
 
-![Iris Dataset scatterplot](data\Pairwise-Scatterplots.png)
+![Iris Dataset scatterplot](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/Pairwise-Scatterplots.png)
 
 ### ***An exponential plot*** to model the growth of a virus.
 
-![exponential](data\exponential.png)
+![exponential](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/exponential.png)
 
 ### ***Stackplot*** track changes over time illustrated using categories of sleeping, eating, college and family time over five days Monday to Friday.
 
-![stackedplot](data\stackedplot.png)
+![stackedplot](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/stackedplot.png)
 
 The biggest challenge was understanding 
 Matplotlib library is extensive and has over 70,000 lines of code, 
