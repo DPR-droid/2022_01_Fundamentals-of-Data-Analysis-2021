@@ -1,7 +1,7 @@
 # Fundamentals-of-Data-Analysis-2021
 
 ## Introduction
-The purpose of this assessment is to demonstrate the learning outcomes of the fundamentals of data analysis module.
+The purpose of this assessment is to demonstrate the learning outcomes of the fundamentals of the data analysis module.
 
 **README Table of Contents**
 
@@ -18,7 +18,7 @@ The purpose of this assessment is to demonstrate the learning outcomes of the fu
     - 3.4 Analyses of CAO data
     - 3.5 What did I learn?
     - 3.6 Biggest challenge
-    - 3.7 Future Challanges
+    - 3.7 Future challenges
 4. How to Use the Project
     - 4.1 Github
     - 4.2 NBViewer
@@ -35,13 +35,13 @@ GitHub repository contains the following
 - 1.1 README.md 
     - This README.md file explains why the repository exists, what is in it, and how to run the notebooks
 - 1.2 requirements.txt
-    - A requirements.txt file is included to enable someone to quickly run this notebooks with minimal configuration.
+    - A requirements.txt file is included to enable someone to quickly run these notebooks with minimal configuration.
 - 1.3 pyplot_V3.ipynb
     - Jupyter notebook for Pyplot Notebook
 - 1.4 cao_V7.ipynb
     - Jupyter notebook for CAO Points Notebook
 - 1.5 Version Control
-    - A Version control to keep track of changes made to the Jupyter notebooks and learning outcomes.
+    - A version control to keep track of changes made to the Jupyter notebooks and learning outcomes.
 - 1.6 data
     - Pictures for notebooks
     - cao_V7.ipynb also uses the data folder to read 2018 and 2019 data and save files HTML, pdf and xlsx.  
@@ -49,7 +49,7 @@ GitHub repository contains the following
     - Samples of coursework
 
 # 2. Pyplot Notebook - pyplot_V3.ipynb
-This README contains an overview of the Pyplot Notebook. The Jupyter notebook contains the main body of work and list all references used the in the assignment.
+This README contains an overview of the Pyplot Notebook. The Jupyter notebook contains the main body of work and lists all references used in the assignment.
 
 - 2.1 About the Pyplot Notebook
 - 2.2 First plot
@@ -93,7 +93,7 @@ What makes this Pyplot Notebook different is the use of real-world examples to s
 
 ![scatterplot.png](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/scatterplot.png)
 
-This is demonstrated with a link to my project work on the [iris dataset](https://github.com/DPR-droid/pands-project). Scatterplots have the ability to show the distinct groups among three different species of iris.
+ Scatterplots have the ability to show distinct groups. This is demonstrated with a link to my project work on the [iris dataset](https://github.com/DPR-droid/pands-project).
 
 ![Iris Dataset scatterplot](https://github.com/DPR-droid/Fundamentals-of-Data-Analysis-2021/blob/master/data/Pairwise-Scatterplots.png)
 
@@ -115,7 +115,7 @@ This is demonstrated with a link to my project work on the [iris dataset](https:
 ***
 
 # 3. CAO Points Notebook - cao_V7.ipynb
-This README contains an overview of the CAO Points Notebook. The Jupyter notebook contains the main body of work and list all references used the in the assignment.
+This README contains an overview of the CAO Points Notebook. The Jupyter notebook contains the main body of work and list all references used in the assignment.
 
 - 3.1 About the CAO Points Notebook
 - 3.2 What does the Setup at the beginning do?
@@ -123,7 +123,7 @@ This README contains an overview of the CAO Points Notebook. The Jupyter noteboo
 - 3.4 Analyses of CAO data
 - 3.5 What did I learn?
 - 3.6 Biggest challenge
-- 3.7 Future Challanges
+- 3.7 Future challenges
 
 ### 3.1 About the CAO Points Notebook.
 
@@ -174,7 +174,7 @@ Extract data for 2019 and 2018 the following step
 1. Download original pdf files.
 2. Check data in the files
 3. Copy Data into Libre Office
-4. Delete preamble on page 1.
+4. Delete the preamble on page 1.
 5. Delete headers and footers.
 6. Remove all whitespaces
 7. Save the data as a CSV file
@@ -222,7 +222,7 @@ To complete the CAO points Notebook requires analyses of the data the following 
 
 ### 3.5 What did I learn?
 1. The ETL process
-2. Pandas is multifunctional tool with the ability 
+2. Pandas is a multifunctional tool with the ability 
     - Loading and saving data
     - Merges and joins
     - Data inspection
@@ -242,7 +242,7 @@ Please see the cao_V7.ipynb section 6 other learning outcomes
     - Sample PDF code is at the end of the notebook to illustrate other learning outcomes
 - How to zip files 
 
-### 3.7 Future Challanges
+### 3.7 Future challenges
 - Fix reading data from the PDF files
 - Automate reading of files
 - Create a file check to compare files for changes
@@ -271,8 +271,8 @@ To view the pyplot_V3.ipynb click the badge →→ [![nbviewer](https://raw.gith
 
 ### 4.3 Try at home
 
-To try this on your own PC you require the following:
-- Install Anaconda https://www.anaconda.com/products/individual this ditribution includes Python and serveral packages used in this Assignment including the numpy package. 
+To try this on your PC you require the following:
+- Install Anaconda https://www.anaconda.com/products/individual this distribution includes Python and several packages used in this Assignment including the NumPy package. 
 - 'requirments.txt' for other modules required. 
 - Install Jupyter https://jupyter.org/ to run cao_V7.ipynb and pyplot_V3.ipynb
 - Install Github
@@ -280,7 +280,7 @@ To try this on your own PC you require the following:
 
 
 ### 4.4 Binder
-Binder will not have a link in this project as the online virtual executable environment had several issue with loading imports from the requirments.txt file, see below:
+Binder will not have a link in this project as the online virtual executable environment had several issues with loading imports from the requirments.txt file, see below:
 
     - urllib
     - re
@@ -289,7 +289,6 @@ Binder will not have a link in this project as the online virtual executable env
     - zipfile
 
 When removed from the requirments.txt file the online virtual executable environment would run but was unable to execute segments of the jupyter notebooks
-
 
 ***
 
@@ -302,4 +301,38 @@ Family and friends for their support
 
 [1] https://en.wikipedia.org/wiki/Extract,_transform,_load
 
-Note: All References are contained within each notebook
+[1] https://pytutorial.com/check-url-is-reachable
+
+[2] https://en.wikipedia.org/wiki/HTTP_404
+
+[3] https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
+
+[4] https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_excel.html
+
+[5] https://towardsdatascience.com/handling-missing-values-with-pandas-b876bf6f008f
+
+[6] https://stackoverflow.com/questions/37826926/how-to-trim-starting-spaces-of-entire-column-in-libreoffice-or-google-sheets
+
+[7] https://www.kite.com/python/answers/how-to-make-a-single-pandas-DataFrame-from-multiple-%60.csv%60-files-in-python
+
+[8] https://pandas.pydata.org/pandas-docs/version/0.17.0/merging.html
+
+[9] https://www.datasciencemadesimple.com/return-first-n-character-from-left-of-column-in-pandas-python/
+
+[10] https://www.independent.ie/life/family/learning/understanding-your-cao-course-guide-26505318.html
+
+[11] https://stackoverflow.com/questions/38277928/remove-special-characters-in-pandas-DataFrame
+
+[12] http://www2.cao.ie/downloads/documents/Guidelines-EU-EFTA.pdf
+
+[13] https://devenum.com/pandas-convert-multiple-columns-to-float/
+
+[14] https://www.sharpsightlabs.com/blog/pandas-describe/
+
+[15] https://www.geeksforgeeks.org/plotting-histogram-in-python-using-matplotlib/
+
+[16] https://seaborn.pydata.org/
+
+[17] https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/cc-6th/v/calculating-interquartile-range-iqr
+
+[18] https://medium.com/@jaimejcheng/data-exploration-and-visualization-with-seaborn-pair-plots-40e6d3450f6d
